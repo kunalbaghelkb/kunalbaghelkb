@@ -13,7 +13,7 @@
 - 📚 Learning **Python, Machine Learning, Deep Learning, LLMs**  
 - 🤝 Looking to collaborate on **AI/ML projects**, automation tools, and model integrations  
 - 🧠 Interested in **AI Agents**, **AI Apps**, and **Applied ML**  
-- 🌱 Building a strong base in **Mathematics for ML** & **ML Engineering Tools**  
+- 🌱 Building a strong base in **ML Engineering Tools**  
 - ⚡ Fun fact: I can build a website AND an AI model for it 😄
 
 ---
@@ -47,7 +47,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kunalbaghelkb&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=kabir&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=kunalbaghelkb&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
