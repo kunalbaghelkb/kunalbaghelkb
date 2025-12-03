@@ -43,30 +43,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunalbaghelkb&theme=tokyonight" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=kunalbaghelkb&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 <p>
   <a href="https://linkedin.com/in/kunalbaghelz"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-## ⚡ Quotes
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" />
-</p>
-
----
-
-## 🐍 Contributions
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
