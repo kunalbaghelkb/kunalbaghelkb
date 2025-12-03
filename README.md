@@ -46,12 +46,12 @@
 ## 📊 GitHub Stats (Interactive)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kabir&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kunalbaghelkb&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://streak-stats.demolab.com/?user=kabir&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabir&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalbaghelkb&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
