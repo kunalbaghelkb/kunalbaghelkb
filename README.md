@@ -43,15 +43,11 @@
 
 ---
 
-## 📊 GitHub Stats (Interactive)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunalbaghelkb&theme=default" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunalbaghelkb&theme=tokyonight" height="160" />
   <img src="https://streak-stats.demolab.com/?user=kunalbaghelkb&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=default" height="150" />
 </p>
 
 ---
