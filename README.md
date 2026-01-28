@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal</h1>
-<h3 align="center">Web Developer transitioning into AI Engineer</h3>
+<h3 align="center">Web Developer transitioning into Data Scientist/AI Engineer</h3>
 
 <!-- Typing Animation -->
 <p align="center">
