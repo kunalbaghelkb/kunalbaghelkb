@@ -1,27 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A8F7&height=220&section=header&text=Kunal&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%2B%20AI%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A8F7&height=220&section=header&text=Kunal&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%2B%20Data%20Scientist&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 <div align="center">
-  
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <br/><br/>
-
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Production-Ready+AI+Systems;Bridging+Web+Dev+%26+Machine+Learning;Architecting+Autonomous+Agents;Python+%7C+LangChain+%7C+FastAPI" alt="Typing SVG" />
 
   <br/>
   
   <h3>
-    <i>"I don't just train models; I deploy them into scalable web applications."</i>
+    <i>"Data is the fuel. Code is the engine. I am the mechanic."</i>
   </h3>
 
 </div>
@@ -41,7 +28,7 @@
     <tr>
       <td align="left">
         <ul>
-          <li>🔭 Currently transitioning from <b>Web Development → AI Engineering</b></li>
+          <li>🔭 Currently transitioning from <b>Web Development → Data Scientist</b></li>
           <li>📚 Learning <b>Python, Machine Learning, Deep Learning, LLMs</b></li>
           <li>🤝 Looking to collaborate on <b>AI/ML projects</b>, automation tools, and model integrations</li>
           <li>🧠 Interested in <b>AI Agents</b>, <b>AI Apps</b>, and <b>Applied ML</b></li>
@@ -77,10 +64,9 @@
   
   <br/><br/>
   
-  <h2>🌐 Let's Connect</h2>
-  <p>Ready to collaborate on the future of AI?</p>
+  <h2>🌐 Connect With Me</h2>
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/kunalbaghelz">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
