@@ -61,11 +61,9 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
-  
-  <br/><br/>
-  
-  <h2>🌐 Connect With Me</h2>
 
+  <h2>🌐 Connect With Me</h2>
+  <p>Open to exploring new opportunities and challenges.</p>
   <a href="https://linkedin.com/in/kunalbaghelz">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
