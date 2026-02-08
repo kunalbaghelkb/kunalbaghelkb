@@ -1,54 +1,86 @@
-<h1 align="center">Hi 👋, I'm Kunal</h1>
-<h3 align="center">Web Developer transitioning into Data Scientist/AI Engineer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A8F7&height=220&section=header&text=Kunal&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%2B%20AI%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+</div>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A8F7&width=435&lines=AI+Engineer+in+Progress;Ex+-+Web+Developer;Python+%7C+Machine+Learning+Learner;Building+AI+Projects+Everyday" />
-</p>
+<div align="center">
+  
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
----
+  <br/><br/>
 
-## 🚀 About Me
-- 🔭 Currently transitioning from **Web Development → AI Engineering**  
-- 📚 Learning **Python, Machine Learning, Deep Learning, LLMs**  
-- 🤝 Looking to collaborate on **AI/ML projects**, automation tools, and model integrations  
-- 🧠 Interested in **AI Agents**, **AI Apps**, and **Applied ML**  
-- 🌱 Building a strong base in **ML Engineering Tools**  
-- ⚡ Fun fact: I can build a website AND an AI model for it 😄
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Production-Ready+AI+Systems;Bridging+Web+Dev+%26+Machine+Learning;Architecting+Autonomous+Agents;Python+%7C+LangChain+%7C+FastAPI" alt="Typing SVG" />
 
----
+  <br/>
+  
+  <h3>
+    <i>"I don't just train models; I deploy them into scalable web applications."</i>
+  </h3>
 
-## 🛠️ Tech Stack (Web + AI)
+</div>
 
-### **Frontend & Backend Tech**
-![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=mysql&logoColor=white)
+<br/>
 
-### **AI, ML & Generative AI (LLM Path)**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-005C83?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge&logo=stackshare&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=facebook&logoColor=white)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
+</div>
 
-### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<br/>
 
----
+<h2 align="center">🚀 About Me</h2>
 
-## 🌐 Connect With Me
-<p>
-  <a href="https://linkedin.com/in/kunalbaghelz"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="left">
+        <ul>
+          <li>🔭 Currently transitioning from <b>Web Development → AI Engineering</b></li>
+          <li>📚 Learning <b>Python, Machine Learning, Deep Learning, LLMs</b></li>
+          <li>🤝 Looking to collaborate on <b>AI/ML projects</b>, automation tools, and model integrations</li>
+          <li>🧠 Interested in <b>AI Agents</b>, <b>AI Apps</b>, and <b>Applied ML</b></li>
+          <li>🌱 Building a strong base in <b>ML Engineering Tools</b></li>
+          <li>⚡ Fun fact: I can build a website AND an AI model for it 😄</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<h2 align="center">🛠️ Tech Stack (Web + AI)</h2>
+<p align="center">My technical arsenal combines traditional web technologies with modern AI frameworks.</p>
+
+<div align="center">
+
+| 🔧 Domain | 💻 Technologies & Frameworks | 🎯 Application & Focus |
+| :--- | :--- | :--- |
+| **Machine Learning** | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) | Deep Learning, Neural Networks, Predictive Modeling, NLP |
+| **Data Science** | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-005C83?style=flat-square) | Data Preprocessing, EDA (Exploratory Data Analysis), Visualization |
+| **Generative AI** | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-4B0082?style=flat-square) ![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat-square&logo=facebook&logoColor=white) | Building RAG Pipelines, Context-aware Chatbots |
+| **Web Dev** | ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-CC0000?style=flat-square&logo=mysql&logoColor=white) ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34C26?style=flat-square&logo=html5&logoColor=white) | Model Deployment (API), Backend Logic, Database Management |
+| **DevOps** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | Version Control, Rapid Prototyping, Notebook Environments |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
+  
+  <br/><br/>
+  
+  <h2>🌐 Let's Connect</h2>
+  <p>Ready to collaborate on the future of AI?</p>
+
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
