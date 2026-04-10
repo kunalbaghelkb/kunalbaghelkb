@@ -89,8 +89,12 @@
     </picture>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://your-portfolio-link.com" title="Visit my Personal Portfolio">
-    <img src="https://kunalbaghel.vercel.app/images/resp-logo.png" alt="Portfolio" width="45" />
+  <a href="https://kunalbaghel.vercel.app/" title="Visit my Personal Portfolio">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://kunalbaghel.vercel.app/images/resp-logo.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://kunalbaghel.vercel.app/images/logo.png">
+      <img src="https://kunalbaghel.vercel.app/images/resp-logo.png" alt="Portfolio" width="45" />
+    </picture>
   </a>
 </div>
 <br/>
