@@ -64,7 +64,21 @@
 
   <h2>🌐 Connect With Me</h2>
   <p>Open to exploring new opportunities and challenges.</p>
+  
+  <a href="mailto:kunalbaghel.cv@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/kunalbaghelz">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/kunalbaghelkb">
+    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/github.png" alt="GitHub" width="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://your-portfolio-link.com">
+    <img src="https://kunalbaghel.vercel.app/images/resp-logo.png" alt="Portfolio" width="45" />
   </a>
 </div>
+<br/>
