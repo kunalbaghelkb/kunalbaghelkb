@@ -1,9 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A8F7&height=220&section=header&text=Kunal&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%2B%20Data%20Scientist&descAlignY=55&descSize=20" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=00A8F7&height=220&section=header&text=Kunal&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%2B%20Data%20Scientist&descAlignY=55&descSize=20&fontColor=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=00A8F7&height=220&section=header&text=Kunal&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%2B%20Data%20Scientist&descAlignY=55&descSize=20&fontColor=000000">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=00A8F7&height=220&section=header&text=Kunal&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%2B%20Data%20Scientist&descAlignY=55&descSize=20" width="100%"/>
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Production-Ready+AI+Systems;Bridging+Web+Dev+%26+Machine+Learning;Architecting+Autonomous+Agents;Python+%7C+LangChain+%7C+FastAPI" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Production-Ready+AI+Systems;Bridging+Web+Dev+%26+Machine+Learning;Architecting+Autonomous+Agents;Python+%7C+LangChain+%7C+FastAPI">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Building+Production-Ready+AI+Systems;Bridging+Web+Dev+%26+Machine+Learning;Architecting+Autonomous+Agents;Python+%7C+LangChain+%7C+FastAPI">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Production-Ready+AI+Systems;Bridging+Web+Dev+%26+Machine+Learning;Architecting+Autonomous+Agents;Python+%7C+LangChain+%7C+FastAPI" alt="Typing SVG" />
+  </picture>
 
   <br/>
   
@@ -65,19 +73,23 @@
   <h2>🌐 Connect With Me</h2>
   <p>Open to exploring new opportunities and challenges.</p>
   
-  <a href="mailto:kunalbaghel.cv@gmail.com">
+  <a href="mailto:kunalbaghel.cv@gmail.com" title="Drop me an Email">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="45" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/kunalbaghelz">
+  <a href="https://linkedin.com/in/kunalbaghelz" title="Connect with me on LinkedIn">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="45" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/kunalbaghelkb">
-    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/github.png" alt="GitHub" width="45" />
+  <a href="https://github.com/kunalbaghelkb" title="Check out my Repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/ios-filled/50/FFFFFF/github.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.icons8.com/ios-filled/50/000000/github.png">
+      <img src="https://img.icons8.com/ios-filled/50/FFFFFF/github.png" alt="GitHub" width="45" />
+    </picture>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://your-portfolio-link.com">
+  <a href="https://your-portfolio-link.com" title="Visit my Personal Portfolio">
     <img src="https://kunalbaghel.vercel.app/images/resp-logo.png" alt="Portfolio" width="45" />
   </a>
 </div>
