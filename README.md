@@ -73,28 +73,12 @@
   <h2>🌐 Connect With Me</h2>
   <p>Open to exploring new opportunities and challenges.</p>
   
-  <a href="mailto:kunalbaghel.cv@gmail.com" title="Drop me an Email">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="45" />
-  </a>
+  <a href="mailto:kunalbaghel.cv@gmail.com" title="Drop me an Email"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="45" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/kunalbaghelz" title="Connect with me on LinkedIn">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="45" />
-  </a>
+  <a href="https://linkedin.com/in/kunalbaghelz" title="Connect with me on LinkedIn"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="45" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/kunalbaghelkb" title="Check out my Repositories">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/ios-filled/50/FFFFFF/github.png">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.icons8.com/ios-filled/50/000000/github.png">
-      <img src="https://img.icons8.com/ios-filled/50/FFFFFF/github.png" alt="GitHub" width="45" />
-    </picture>
-  </a>
+  <a href="https://github.com/kunalbaghelkb" title="Check out my Repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/ios-filled/50/FFFFFF/github.png"><source media="(prefers-color-scheme: light)" srcset="https://img.icons8.com/ios-filled/50/000000/github.png"><img src="https://img.icons8.com/ios-filled/50/FFFFFF/github.png" alt="GitHub" width="45" /></picture></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://kunalbaghel.vercel.app/" title="Visit my Personal Portfolio">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://kunalbaghel.vercel.app/images/resp-logo.png">
-      <source media="(prefers-color-scheme: light)" srcset="https://kunalbaghel.vercel.app/images/logo.png">
-      <img src="https://kunalbaghel.vercel.app/images/resp-logo.png" alt="Portfolio" width="45" />
-    </picture>
-  </a>
+  <a href="https://kunalbaghel.vercel.app/" title="Visit my Personal Portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://kunalbaghel.vercel.app/images/resp-logo.png"><source media="(prefers-color-scheme: light)" srcset="https://kunalbaghel.vercel.app/images/logo.png"><img src="https://kunalbaghel.vercel.app/images/resp-logo.png" alt="Portfolio" width="45" /></picture></a>
 </div>
 <br/>
